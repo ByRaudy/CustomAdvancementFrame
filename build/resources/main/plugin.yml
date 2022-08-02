@@ -1,0 +1,7 @@
+name: CustomAdvancementFrame
+version: '1.0-SNAPSHOT'
+main: dev.jxnnik.customadvancementframe.CustomAdvancementFrame
+api-version: 1.19
+author: Jxnnik
+description: Send a custom advancement frame at different events
+website: www.jxnnik.dev
