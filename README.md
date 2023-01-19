@@ -12,7 +12,7 @@ Alle Nachrichten sind personalisierbar. Wem die Nachricht bei sterben eines Spie
 Außerdem sind die Icons, welche angezeigt werden sollen auch konfigurierbar. 
 
 ### Support
-Support gibt es auf dem Discord von Jxnnik. (https://dsc.gg/jxnnik)
+Support gibt es auf auf [Twitter](https://twitter.com/byraudy).
 
 ### Installation
 Downloade dir das Plugin einfach von SpigotMC und ziehe dies in dein Plugin Ordner.
@@ -21,4 +21,4 @@ In diesem Ordner findest du die "config.json" Datei._
 
 ### Links
 - SpigotMC: https://www.spigotmc.org/resources/customadvancementframe.104009/
-- GitHub: https://github.com/Jxnnikk/CustomAdvancementFrame
+- GitHub: https://github.com/ByRaudy/CustomAdvancementFrame
